@@ -15,6 +15,7 @@ class Route extends Bootstrap{
             'route' => '/inscreverse',
             'controller' => 'indexController',
             'action' => 'inscreverse'
+            //teste
         );
         
         $this->setRoutes($routes);
