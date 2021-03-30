@@ -14,7 +14,7 @@ class Connection{
                 );
                 return $conn;
             }catch(PDOException $e){
-                // tratar de alguma forma o erro
+                // tratar de alguma forma o erros
             }
         }
     }
